@@ -1,0 +1,6 @@
+C:\Users\Mariana\Desktop\Curso\Alura\Projeto 1\Labelle\Projeto Salao\bin\Debug\Projeto Salao.exe.config
+C:\Users\Mariana\Desktop\Curso\Alura\Projeto 1\Labelle\Projeto Salao\bin\Debug\Projeto Salao.exe
+C:\Users\Mariana\Desktop\Curso\Alura\Projeto 1\Labelle\Projeto Salao\bin\Debug\Projeto Salao.pdb
+C:\Users\Mariana\Desktop\Curso\Alura\Projeto 1\Labelle\Projeto Salao\obj\Debug\Projeto Salao.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Desktop\Curso\Alura\Projeto 1\Labelle\Projeto Salao\obj\Debug\Projeto Salao.exe
+C:\Users\Mariana\Desktop\Curso\Alura\Projeto 1\Labelle\Projeto Salao\obj\Debug\Projeto Salao.pdb
